@@ -1,0 +1,2 @@
+# .context
+My agent context.
